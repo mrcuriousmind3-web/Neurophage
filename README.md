@@ -47,7 +47,13 @@ Open it in any modern browser — Chrome, Edge, Firefox, Safari
 Enter your age (9+ recommended; the game checks) → pick a difficulty → survive
 🎧 Headphones strongly recommended — the heartbeat, footsteps and chase drumsare half the horror.
 
-👹 Optional: drop any monster.png next to index.html and it's used as themonster automatically. Delete it and the built-in pixel demon takes over.
+📸Screenshot
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/727f273a-ed2d-4e2d-88e3-52490edfe76f" />
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/16a29a53-9054-4715-a2b5-74a65987dac6" />
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/f0c50843-4f4c-4912-bc0e-08424c4a0900" />
+
+
+
 
 🛠️ Tech & Architecture
 Rendering: HTML5 Canvas 2D, imageSmoothingEnabled=false for crisp pixels
